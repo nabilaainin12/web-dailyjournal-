@@ -77,7 +77,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <div class="card-body">
           <div class="text-center mb-3">
             <i class="bi bi-person-circle h1 display-4"></i>
-            <p>My Daily Journal</p>
+            <p> Welcome to My Daily Journal</p>
             <hr />
           </div>
           <form action="" method="post">
@@ -105,7 +105,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 <link rel="icon" href="img/logo.png" />
   </head>
-  <div class="container mt-5 pt-5 "
+  <div class="container mt-5 pt-5 ">
       <div class="row">
         <div class="col-12 col-sm-8 col-md-6 m-auto">
           <div class="card border-0 shadow rounded-5">
